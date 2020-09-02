@@ -12,5 +12,5 @@ Samsung Galaxy Note8 (greatlte)      | Soon
 
 ### Thanks to:
 
-* [Enzo(Project WKF)](https://github.com/Project-WKF) - Idea
+* [Enzo(Project WKF)](https://github.com/Project-WKF) - Idea and Base
 
