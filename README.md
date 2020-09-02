@@ -18,4 +18,4 @@ $ wget https://raw.githubusercontent.com/RenatohRibeiro/RecoveryBuild/master/tel
 ### Thanks to:
 
 * [Enzo(Project WKF)](https://github.com/Project-WKF) - Idea and Base
-* [Fabian Schlenz](https://github.com/fabianonline/telegram.sh) Telegram "Cli-Client"
+* [Fabian Schlenz](https://github.com/fabianonline/telegram.sh) - Telegram "Cli-Client"
