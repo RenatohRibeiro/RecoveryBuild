@@ -14,7 +14,7 @@ sed -i "s/enzomacaco/$TOKEN/" telegram.sh
 printf "Enter the chat ID you want the bot to send the build information to\nID: "
 read ID
 
-if [ -z $enso ]; then
+if [ -z $ID ]; then
 echo -e "Enter the chat ID you want the bot to send the build information to"
 exit 0
 fi
